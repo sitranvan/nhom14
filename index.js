@@ -1,24 +1,16 @@
 // Hàm kiểm tra nguyên tố - Trần Văn Sĩ
-function ktSoNguyenTo() {
-    
-}
+function ktSoNguyenTo() {}
 // Võ Quốc Thắng - Hàm tổng
-function tong() {
-
+function tong(a, b) {
+  return a + b;
 }
 // Trang Thanh Hải - Hàm hiệu
-function hieu() {
-    
-}
+function hieu() {}
 // Nguyễn Hoàng Khang - Hàm tích
-function tich() {
-    
-}
+function tich() {}
 
 // Phạm Ngọc Đông - Hàm thương
 
-function thuong() {
-    
-}
+function thuong() {}
 
 // Gọi hàm
