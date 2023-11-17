@@ -11,7 +11,8 @@ function hieu() {
     
 }
 // Nguyễn Hoàng Khang - Hàm tích
-function tich() {
+function tich(a, b) {
+    return a * b;
     
 }
 
