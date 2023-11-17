@@ -7,8 +7,8 @@ function tong() {
 
 }
 // Trang Thanh Hải - Hàm hiệu
-function hieu() {
-    
+function hieu(a,b) {
+    return a - b;
 }
 // Nguyễn Hoàng Khang - Hàm tích
 function tich() {
