@@ -10,14 +10,21 @@ function ktSoNguyenTo(n) {
     }
     return true
 }
+
 // Võ Quốc Thắng - Hàm tổng
 function tong() {}
+
+
 // Trang Thanh Hải - Hàm hiệu
-function hieu() {}
+function hieu(a,b) {
+    return a - b;
+}
+
+
 // Nguyễn Hoàng Khang - Hàm tích
+function tich()
 
 // Phạm Ngọc Đông - Hàm thương
-
 function thuong(a, b) {
   if (b == 0) {
     return "Không thể chia cho 0";
