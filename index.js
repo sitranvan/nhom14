@@ -12,17 +12,20 @@ function ktSoNguyenTo(n) {
 }
 
 // Võ Quốc Thắng - Hàm tổng
-function tong() {}
-
+function tong(a, b) {
+  return a + b;
+}
 
 // Trang Thanh Hải - Hàm hiệu
 function hieu(a,b) {
     return a - b;
 }
 
-
 // Nguyễn Hoàng Khang - Hàm tích
-function tich()
+function tich() {
+    return a*b;
+}
+
 
 // Phạm Ngọc Đông - Hàm thương
 function thuong(a, b) {
@@ -31,5 +34,6 @@ function thuong(a, b) {
   }
   return a / b;
 }
+
 
 // Gọi hàm
